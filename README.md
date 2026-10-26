@@ -47,3 +47,4 @@ As a working example, the user management feature has been used.
 ![crud-architecture](http://ugrose.com/content/demos/humbular/images/crud-architecture.gif)
 
 For detailed information, refer to the [dedicated wiki page](https://github.com/RobertoPrevato/flask-three-template/wiki/CRUD-architecture-for-SPA).
+# DEVOPS_-
